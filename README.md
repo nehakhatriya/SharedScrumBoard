@@ -11,7 +11,7 @@ The project is a shared scrum board system that allows multiple users to simulta
 - MySQL Database: username: scrum, password: ScrumBoard123
 
 # Steps to run:
-1. Clone the repository to your remote system: git clone https://github.com/saimadhur99/shared-scrum-board-aos.git
+1. Clone the repository to your remote system: git clone https://github.com/nehakhatriya/SharedScrumBoard.git
 2. Import project to your IDE as maven project.
 3. Ensure to add Lombok to your IDE.
 4. Run the project as a Spring Boot Application.
